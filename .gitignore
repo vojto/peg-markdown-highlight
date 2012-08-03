@@ -2,7 +2,6 @@
 *.log
 *.dSYM
 *.plist
-pmh_parser.c
 pmh_parser_core.c
 tester
 multithread_tester
